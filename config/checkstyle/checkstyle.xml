@@ -29,6 +29,7 @@
         <property name="file" value="${config_loc}/suppressions.xml"/>
     </module>
 
+<!--    this portion throws errors in gradle -->
     <!--<module name="LineLength">-->
         <!-- Checks if a line is too long. -->
     <!--    <property name="max" value="120"/>-->
